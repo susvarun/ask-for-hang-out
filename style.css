@@ -18,6 +18,13 @@
     align-items: center;
     height: 100%;
     width: 100%;
+    background: radial-gradient(879px at 10.4% 22.3%, rgb(255, 235, 238) 0%, rgb(186, 190, 245) 93.6%);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.main-box *{
+  margin: 6px;
 }
 
 #videoPlayer{
